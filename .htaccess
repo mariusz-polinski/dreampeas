@@ -1,3 +1,6 @@
+#hide .gut directory
+RedirectMatch 404 /\.git
+
 # Apache Server Configs v2.14.0 | MIT License
 # https://github.com/h5bp/server-configs-apache
 
